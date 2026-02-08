@@ -73,10 +73,10 @@ Builds ontology prototype vectors by aggregating aligned ontology concepts.
 scripts/feat/build_proto_cache.py
 ```
 
-### 3️⃣ Ontology-Guided Representation Training (GRT)
+### 3️⃣ Ontology-Guided Representation Geometry Training (OGRE)
 Aligns image representations with ontology prototypes.
 ```text
-scripts/feat/train_grt.py
+scripts/feat/train_ogre.py
 ```
 
 ----
@@ -105,7 +105,7 @@ scripts/feat/
 │   ├── kg/        # ontology construction
 │   ├── feat/      # representation learning & evaluation
 │   └── utils/     # shared utilities
-├── asserts/
+├── assets/
 │   └── Fig_1.png
 └── README.md
 ```
