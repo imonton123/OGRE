@@ -10,7 +10,7 @@ OGRE integrates structured medical knowledge (UMLS ontology) into representation
 ## 🔍 Overview
 
 <p align="center">
-  <img src="asserts/Fig_1.png" width="95%">
+  <img src="assets/Fig_1.png" width="95%">
 </p>
 
 **Figure 1.** Overview of the OGRE framework.  
