@@ -1,6 +1,6 @@
-# OGRE: Ontology-Guided Representation Engineering
+# OGRE: Ontology-Guided Representation Geometry for Vision–Language Models
 
-This repository provides the **official implementation** of **OGRE (Ontology-Guided Representation Engineering)**,  
+This repository provides the **official implementation** of **OGRE (Ontology-Guided Representation Geometry)**,  
 a framework for learning **ontology-aligned, sparse, and interpretable representations** for medical vision-language models.
 
 OGRE integrates structured medical knowledge (UMLS ontology) into representation learning to improve **robustness, interpretability, and semantic consistency**.
